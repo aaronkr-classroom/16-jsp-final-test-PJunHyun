@@ -24,7 +24,7 @@
     <link rel="stylesheet" href="${pageContext.request.contextPath}/public/css/confetti.css" />
 
     <!-- JS 파일에 대한 script테그를 수정하십시오 -->
-    <script defer src="${pageContext.request.contextPath}/public/js/functions.js"></script>
+    <script defer src="${pageContext.request.contextPath}/public/js/functions.jsp"></script>
   </head>
 
   <body>
